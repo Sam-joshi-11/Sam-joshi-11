@@ -46,6 +46,48 @@
 
 </p>
 
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+
+</p>
 <!--
 **Sam-joshi-11/Sam-joshi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
