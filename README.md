@@ -34,36 +34,36 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-joshi-11&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-joshi-11&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-joshi-11&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+src="https://github-profile-trophy.vercel.app/?username=Sam-joshi-11&theme=algolia&row=2&column=4"/>
 
 </p>
 
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-joshi-11&theme=react-dark"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/Sam-joshi-11/Sam-joshi-11/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -73,11 +73,11 @@ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samarthjoshi89517@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Sam-joshi-11">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
