@@ -69,7 +69,7 @@ src="https://raw.githubusercontent.com/Sam-joshi-11/Sam-joshi-11/output/github-c
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/Samarth_joshi_2410">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
