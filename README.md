@@ -4,17 +4,6 @@
 
 💻 Passionate about Machine Learning, Data Science, and Backend Development.
 
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,mongodb,git,github,docker,fastapi,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
 
 ## 🚀 Tech Stack
 
