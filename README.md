@@ -6,64 +6,34 @@
 
 ---
 
-## 🚀 About Me
+## 💻 Tech Stack
 
-- 🌱 Currently learning MLOps and Cloud Deployment
-- 🤖 Building Machine Learning projects using Python
-- ⚡ Interested in AI, Data Science, and Backend APIs
-- 📚 Always exploring new technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,mongodb,git,github,docker,fastapi,vscode" />
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-**Languages**
-- Python
-- SQL
-- C++
-- Java
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,mysql,mongodb,vscode" />
+</p>
 
-**Machine Learning**
-- Scikit-learn
-- XGBoost
-- Pandas
-- NumPy
-- MLflow
-
-**Backend**
-- FastAPI
-- Docker
-- REST APIs
-
-**Database**
-- MySQL
-- MongoDB
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Postman
-- Render
-
----
-
-## 📌 Featured Projects
-
-🔹 Customer Churn Prediction API
-
-- XGBoost
-- FastAPI
-- Docker
-- MLflow
-- Render Deployment
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Sam-joshi-11
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: (https://www.linkedin.com/in/samarthjoshi2410/)
 
 ---
 
